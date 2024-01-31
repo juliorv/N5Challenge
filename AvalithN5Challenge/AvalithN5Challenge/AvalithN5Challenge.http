@@ -1,0 +1,6 @@
+@AvalithN5Challenge_HostAddress = http://localhost:5051
+
+GET {{AvalithN5Challenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\AvalithN5Challenge\AvalithN5Challenge\obj\Debug\net8.0\AvalithN5Challenge.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\AvalithN5Challenge\AvalithN5Challenge\obj\Debug\net8.0\AvalithN5Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\AvalithN5Challenge\AvalithN5Challenge\obj\Debug\net8.0\AvalithN5Challenge.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\AvalithN5Challenge\AvalithN5Challenge\obj\Debug\net8.0\AvalithN5Challenge.AssemblyInfo.cs
+C:\Users\DELL\source\repos\AvalithN5Challenge\AvalithN5Challenge\obj\Debug\net8.0\AvalithN5Challenge.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AvalithN5Challenge\AvalithN5Challenge\obj\Debug\net8.0\AvalithN5Challenge.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\AvalithN5Challenge\AvalithN5Challenge\obj\Debug\net8.0\AvalithN5Challenge.MvcApplicationPartsAssemblyInfo.cache
